@@ -2,6 +2,6 @@
 
 ### Android Basics
 
-* "Antes de correr, hay que aprender a caminar"
+*"Antes de correr, hay que aprender a caminar"
 
-(/screenshot.png "Screenshot")
+(./screenshot.png "Screenshot")

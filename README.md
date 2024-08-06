@@ -4,4 +4,4 @@
 
 *"Antes de correr, hay que aprender a caminar"
 
-(./screenshot.png "Screenshot")
+(screenshot.png "Screenshot")

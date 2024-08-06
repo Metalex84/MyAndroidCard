@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My custom card</string>
+    <string name="customName">Alejandro Gonzalez</string>
+    <string name="customRole">Android Developer Dummy</string>
+    <string name="customPhone">+11 (123) 333 666 999</string>
+    <string name="customSocial">\@Metalex84</string>
+    <string name="customEmail">agv@android.com</string>
+    <string name="custonName">Alejandro Gonzalez</string>
+    <string name="custonRole">Android Developer Disaster</string>
+</resources>
